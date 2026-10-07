@@ -2,6 +2,10 @@
 
 This is a guide on how to set up packet radio on Debian Linux 13. This assumes that you have a digirig.
 
+# Installer
+
+I made a bash script called `autosetup.sh` that should handle setting up the direwolf configuration. I recommend you use that instead of manually following the instructions below.
+
 # Needed programs
 
 * direwolf
@@ -34,6 +38,6 @@ To configure QTTermTCP, you need to go into the setup menu then the KISS Setup m
 
 Once that is done, press the Connect button in the top right corner and then choose "KISS connect".
 
-#ax25-tools
+# ax25-tools
 
 suffer
