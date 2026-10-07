@@ -28,7 +28,9 @@ Replace [callsign only] with your callsign and /dev/serial/by-id/usb-Silicon_Lab
 
 Depending on what you want to do next, you will need either qttermtcp or ax25-tools.
 
+
 #QTTermTCP
+
 
 To configure QTTermTCP, you need to go into the setup menu then the KISS Setup menu. There you need to set the device to TCP, the host to localhost or 127.0.0.1, and the port to 8001. Also replace the field for your callsign with your callsign.
 
